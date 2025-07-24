@@ -12,7 +12,7 @@ O projeto Hello Word é o primeiro projeto que estou fazendo de forma pública a
 |-------|---------|
 |Salvando alterações no repositório local|[ Resumo 1](https://web.dio.me/track/santander-2025-front-end/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1)|
 ...
-Git Init
+Git Ini
 ...
 
 ## 🔎 Referências
